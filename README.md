@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Fernando Roldan Ortiz</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
-<img align="center" alt="Coding" width="400" src="[https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGpxaVkwMVozY2xYMlI4MzNHT2RjZnN2UkFyd3xBQ3Jtc0tuV0w2M19YdHNQMWtFQ0xPclRveElTVFE3djVtY1lUTjFiMW55bm02VERLdHRTM3hmbWg2WWRqdW14ejJuMklKZ1poWk1mMHNwam1wand5dlZTM2w5bnUydW1HaEFldEJ2MFo2eVRfZlBta042bkZVTQ&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE)
+<img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif
 ">
 
 - 🔭 I’m currently working on [Star Wars Blog](https://github.com/Luis-Roldan/Star-Wars-Blog-Luis-Roldan.git)
