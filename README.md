@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Fernando Roldan Ortiz</h1>
-<h3 align="center">A passionate frontend developer from Perú</h3>
+<h3 align="center">A passionate full-stack developer from Perú</h3>
 
 <img align="center" alt="Coding" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif">
 
