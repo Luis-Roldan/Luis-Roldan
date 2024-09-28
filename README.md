@@ -3,9 +3,9 @@
 
 <img align="center" alt="Coding" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif">
 
-- 🔭 I’m currently working on Le wagon bootcamp
+- 🔭 I’m currently working on freelance projects
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 💬 Ask me about **React, Phyton and Bootstrap**
 
