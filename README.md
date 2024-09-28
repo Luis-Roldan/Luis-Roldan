@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 💬 Ask me about **React, Phyton and Bootstrap**
+- 💬 Ask me about **React, Ruby on Rails and Bootstrap**
 
 - 📫 How to reach me **roldanluis022@gmail.com**
 
